@@ -1,2 +1,2 @@
-# DIO-desafio-gitrub-primeiro-repositorio
-meu desafio git/gitrub
+# DIO-desafio-github-primeiro-repositorio
+meu desafio git/github
